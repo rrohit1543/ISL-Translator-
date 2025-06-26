@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 ISL Translator App
 
 A simple Streamlit app template for you to modify!
 
